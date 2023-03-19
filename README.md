@@ -1,3 +1,1 @@
-Hello
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amadeus-Tenknown)](https://github.com/anuraghazra/github-readme-stats)
+I'm too lazy to write an entire readme....
